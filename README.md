@@ -1,14 +1,25 @@
-# 👋 Hi, I'm Ukasha Anwer
+```
+   ▄███████     ▄█   █▄     ▄██   ██▄     ▄███████     ▄███████▄     ▄███▄     ▄███████████▄    ▄███████  
+  ███   ███    ███   ███    ███   ███    ███   ███    ███   ███      ███      ███   ███   ███  ███   ███  
+  ███   █▀     ███   ███     ▀██▄██▀     ███   ███    ███   ███      ███      ███   ███   ███  ███   ███  
+  ███          ███▄▄▄███       ███      ▄███▄▄▄███   ▄███▄▄▄██▀      ███      ███   ███   ███ ▄███▄▄▄███  
+  ███          ▀▀▀▀▀▀███       ███      ▀███▀▀▀███   ▀███▀▀▀██▄      ███      ███   ███   ███ ▀███▀▀▀███  
+  ███   █▄     ▄██   ███     ▄██▀██▄     ███   ███    ███   ███      ███      ███   ███   ███  ███   ███  
+  ███   ███    ███   ███    ███   ███    ███   ███    ███   ███      ███      ███   ███   ███  ███   ███  
+  ███████▀      ▀█████▀     ▀██   ██▀    ███   █▀     ████████▀     ▀███▀      ▀█   ███   █▀   ███   █▀
+```
+---
+# Hi, I'm Ukasha Anwer Ali
 
-🎓 Student of Computer Science, Engineering, Life, and Everything In Between  
-🧠 Passionate about **problem solving** — not just coding  
-🔭 Exploring: Web Dev, AI/ML, DevOps, Cybersecurity, Game Dev, Blockchain  
-🛠 Tech doesn't define me — I use it to explore ideas that matter  
-📚 Still learning. Always will be. *(InshaAllah)*
+- Student of Computer Science, Engineering, Life, and Everything In Between  
+- Passionate about **problem solving** — not just coding  
+- Exploring: Web Dev, AI/ML, DevOps, Cybersecurity, Game Dev, Blockchain  
+- Tech doesn't define me — I use it to explore ideas that matter  
+- Still learning. Always will be. *(InshaAllah)*
 
 ---
 
-### 🧭 What Drives Me
+### What Drives Me
 
 I’m not chasing stacks — I’m chasing **understanding**.
 
@@ -19,7 +30,7 @@ I believe in:
 
 ---
 
-### ⚙️ Tools & Tech I’ve Worked With
+### Tools & Tech I’ve Worked With
 
 ```bash
 # Comfortable
